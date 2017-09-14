@@ -25,6 +25,7 @@
     
     // git 文件修改
     // git is free software, opensources
+    // just do what you want to do
 } 
 
 - (BOOL)isEvent:(int)i {

@@ -28,6 +28,7 @@
     // just do what you want to do
     // 测试 git diff
     // 测试推送
+    // Creating a new branch is quick.
 } 
 
 - (BOOL)isEvent:(int)i {

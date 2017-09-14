@@ -29,7 +29,9 @@
     // 测试 git diff
     // 测试推送
     // Creating a new branch is quick.
+    
     // master分支下提交修改操作
+    // freature1 修改操作
 } 
 
 - (BOOL)isEvent:(int)i {

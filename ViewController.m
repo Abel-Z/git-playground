@@ -27,6 +27,7 @@
     // git is free software, opensources
     // just do what you want to do
     // 测试 git diff
+    // 测试推送
 } 
 
 - (BOOL)isEvent:(int)i {

@@ -24,6 +24,7 @@
     [self.navigationController popViewControllerAnimated:YES];
     
     // git 文件修改
+    // git is free software, opensources
 } 
 
 - (BOOL)isEvent:(int)i {

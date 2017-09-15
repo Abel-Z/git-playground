@@ -33,6 +33,7 @@
     // master分支下提交修改操作
     // freature1 修改操作
     // dev分支提交commit
+    // dev分支提交commit2
 } 
 
 - (BOOL)isEvent:(int)i {

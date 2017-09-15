@@ -32,6 +32,8 @@
     
     // master分支下提交修改操作
     // freature1 修改操作
+    
+    // master提交操作
 } 
 
 - (BOOL)isEvent:(int)i {

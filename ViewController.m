@@ -39,6 +39,8 @@
     // 修复bug007
     // dev分支上的工作ing, 只做了30%
     // dev分支上的工作ing, 只做了100%
+    
+    // 添加新功能feature
 } 
 
 - (BOOL)isEvent:(int)i {

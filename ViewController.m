@@ -35,6 +35,7 @@
     // dev分支提交commit
     // dev分支提交commit2
     // dev分支提交commit3
+    // 修复bug007
 } 
 
 - (BOOL)isEvent:(int)i {

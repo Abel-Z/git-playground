@@ -40,6 +40,7 @@
     // dev分支上的工作ing, 只做了100%
     
     // 添加新功能 new feature
+    // 本人测试
 } 
 
 - (BOOL)isEvent:(int)i {

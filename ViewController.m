@@ -46,6 +46,8 @@
 } 
 
 - (BOOL)isEvent:(int)i {
+    
+    // dev分支下添加命令
 
     if (i % 2 == 0) {
         

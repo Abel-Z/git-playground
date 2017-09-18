@@ -47,6 +47,7 @@
 
     // 修复bug007
 
+    // derain_dev下添加操作
 } 
 
 - (BOOL)isEvent:(int)i {

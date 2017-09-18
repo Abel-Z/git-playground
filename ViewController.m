@@ -47,7 +47,7 @@
 
     // 修复bug007
 
-    // derain_dev下添加操作
+    // derain_dev分支下添加操作, 然后合并到dev分支
 } 
 
 - (BOOL)isEvent:(int)i {
